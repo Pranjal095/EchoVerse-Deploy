@@ -1,0 +1,6 @@
+[submodule "chat-application"]
+	path = chat-application
+	url = ./chat-application
+[submodule "back-end"]
+	path = back-end
+	url = ./back-end
